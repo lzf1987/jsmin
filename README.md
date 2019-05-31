@@ -1,10 +1,10 @@
 # jsmin
 基于jsmin.exe 压缩程序做的js压缩脚步,可以直接把文件夹里面的所有js进行压缩，并且生成新的文件夹！
 
-#http://www.crockford.com/javascript/jsmin.zip
+# http://www.crockford.com/javascript/jsmin.zip
 在上面的链接下载使用与MS-DOC的文件，
 
-#2019年3月30号
+# 2019年3月30号
 下载完成后运行cmd，
 然后在命令提示符输入：
 C:\jsmin.exe <C:\before.js>C:\after.js
@@ -24,9 +24,9 @@ JSMin的压缩主要是清除多余空白和备注。
 
 
 
-#2019年5月30号
+# 2019年5月30号
 
-#更新 添加了spannedFile.bat 文件
+# 更新 添加了spannedFile.bat 文件
 
 直接打开 spannedFile.bat，输入你需要压缩的文件路径 ，
 
