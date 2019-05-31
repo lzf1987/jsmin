@@ -1,0 +1,5 @@
+@echo off
+SET JSDir=D:\jsmin\jsmew
+CALL JsMinfy.bat%JSDir%topup_view.js
+CALL JsMinfy.bat%JSDir%account_view.js
+CALL JsMinfy.bat%JSDir%gaine_view.js
